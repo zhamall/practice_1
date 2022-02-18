@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zhamall/zhamall.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhamall/zhamall.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Отчет по эксплуатационной практике
+2
+Содержит отчёты о выполнении заданий эксплуатационной практики 2020.
+3
+​
+4
+**Подготовил:** Студент 1 курса, 1 группы, 1 подгруппы Бережной Михаил Александрович
+5
+​
+6
+## **Содержимое:**
+7
+​
+8
+### **Тема 1**
+9
+* [Задание 1.1. ИСР]()
+10
+* [Задание 1.2. ИСР]()
+11
+​
+12
+### **Тема 2**
+13
+* [Задание 1.3. ИСР]()
+14
+​
+15
+### **Тема 3**
+16
+* [Задание 1.4. ИСР]()
+17
+* [Задание 1.5. ИСР]()
+18
+​
+19
+### **Тема 4**
+20
+* [Задание 1.6. ИСР]()
+21
+* [Задание 1.7. ИСР]()
+22
+* [Задание 1.8. ИСР]()
+23
+* [Задание 1.9. ИСР]()
+24
+​
+25
+### **Тема 5**
+26
+* [Задание 1.10. ИСР]()
+27
+* [Задание 1.11. ИСР]()
+28
+​
+29
+### **Тема 6**
+30
+* [Задание 2.1. ВСР]()
+31
+* [Задание 2.2. ВСР]()
+32
+* [Задание 2.3. ВСР]()
+33
+* [Задание 2.4. ВСР]()
+34
